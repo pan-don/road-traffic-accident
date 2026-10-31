@@ -2,7 +2,7 @@
 
 # Evolutionary Boosting Using Categorical CMA-ES with Margin for Imbalanced Crash Injury Severity Prediction in Emergency Triage
 
-<img src="outputs/models_comparison.png" alt="Overview of model performance across injury severity levels" width="90%">
+<img src="outputs/ablation_study.png" alt="Ablation study results" width="80%">
 
 ![Python](https://img.shields.io/badge/python-%E2%89%A53.13-blue)
 ![Task](https://img.shields.io/badge/task-imbalanced%20multiclass%20classification-informational)
@@ -143,7 +143,7 @@ Evolutionary Boosting with CatCMAwM attains the highest Accuracy, Macro F1, and 
 | 5 | + CatCMAwM | Fatal recall 0.3478 is preserved, slight recall is restored to 0.9079, and the highest Macro F1 (0.4852) is obtained. |
 
 <div align="center">
-<img src="outputs/ablation_study.png" alt="Ablation study results" width="80%">
+<img src="outputs/models_comparison.png" alt="Overview of model performance across injury severity levels" width="90%">
 </div>
 
 ### Misclassification Cost and Computational Efficiency
