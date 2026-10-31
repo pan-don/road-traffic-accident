@@ -1,0 +1,5 @@
+.venv/
+catboost_info/
+__pycache__/
+TemplateRESTI2026.docx
+*.pdf
